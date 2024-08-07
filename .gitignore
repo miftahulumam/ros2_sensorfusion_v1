@@ -3,5 +3,5 @@
 ./etri_msfloc/calib_inference/*.pth.tar
 ./etri_msfloc/calib_inference/__pycache__/*
 ./etri_msfloc/depth_inference/__pycache__/*
-./etri_msfloc/calib_inference/TransCalib_LVT_EfficientNet_june2_20240606_074356_best_val.pth.tar
-./etri_msfloc/depth_inference/best_model/*
+etri_msfloc/calib_inference/TransCalib_LVT_EfficientNet_june2_20240606_074356_best_val.pth.tar
+etri_msfloc/depth_inference/best_model/
