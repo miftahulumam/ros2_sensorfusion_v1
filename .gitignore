@@ -1,0 +1,4 @@
+*/__pycache__/*
+.vscode/
+./etri_msfloc/calib_inference/*.pth.tar
+./etri_msfloc/depth_inference/best_model/*
