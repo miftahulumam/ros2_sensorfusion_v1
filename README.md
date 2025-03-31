@@ -8,6 +8,7 @@ computer fusion research project at [WiComAI Lab](https://wireless.kookmin.ac.kr
 ## Project Description
 Framework: 
 * [ROS 2 Foxy Fitzroy](https://docs.ros.org/en/foxy/index.html)
+
 Hardware:
 * NVIDIA Jetson AGX Orin
 * Velodyne VLP-16 LiDAR
