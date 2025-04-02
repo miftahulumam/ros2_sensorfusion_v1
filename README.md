@@ -14,3 +14,6 @@ Hardware:
 * NVIDIA Jetson AGX Orin
 * Velodyne VLP-16 LiDAR
 * Intel RealSense D455
+
+## Acknowledgement
+Thanks to [krishnayoga](https://github.com/krishnayoga) for providing depth estimation inference source code for this repository.
